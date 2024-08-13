@@ -1,6 +1,6 @@
 sudo -i  
 
-apt update & apt upgrade -y
+apt update && apt upgrade -y
 
 git clone https://github.com/jbjoseph387/user_management.git /usr/scripts /usr/
 
